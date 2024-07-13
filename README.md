@@ -1,4 +1,5 @@
 # ApnaCollege_GIT_Practice
 Practicing Git From Apna College. As Practice, I am Uploading the Tic Tac Toe Game.
 <br>
-author: <b>Aasif</b>
+author: <b>Aasif Ali</b>
+co-author: <i>Apna-College</i>
